@@ -10,13 +10,16 @@ The dataset, obtained from Kaggle, contains comprehensive information on Amazon 
 
 ## Tools Used
 
-•⁠  ⁠Power BI
+- ⁠Power BI
 
 ## Usage
 
-To explore the dashboard:
+<p>To explore the dashboard:</p>
 
-1.⁠ ⁠Download and install the Power BI desktop application
-2.⁠ ⁠Clone this repository.
-3.⁠ ⁠Open ⁠ Amazon Prime Content Categorisation Study.pbix ⁠ using Power BI.
-4.⁠ ⁠Interact with the dashboard to uncover various insights.
+<ol>
+    <li>Download and install the Power BI desktop application</li>
+    <li>Clone this repository.</li>
+    <li>Open Amazon Prime Content Categorisation Study.pbix using Power BI.</li>
+    <li>Interact with the dashboard to uncover various insights.</li>
+</ol>
+
